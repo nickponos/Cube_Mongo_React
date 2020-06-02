@@ -1,2 +1,6 @@
-# Cube_Mongo_React
- This is the simple example of cubejs and mongo db in react web application
+# Cubejs-MongoDB-ReactJS-Dashboard
+ 
+Cubejs MongoDB Dashboard App
+- MongoDB data Analytics using Cubejs
+- Reactjs Dashboard
+- React Dashboard visualize query data of cubejs
