@@ -107,7 +107,7 @@ const pieRender = ({ resultSet }) => {
     <Chart height={400} data={resultSet.chartPivot()} forceFit>
       <Coord type="theta" radius={0.75} />
       {resultSet.seriesNames().map(s => (
-        <Axis name={s.key} />
+        // <Axis name={s.key} />
       ))}
       <Legend position="right" />
       <Tooltip />
