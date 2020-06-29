@@ -25,7 +25,7 @@ const AppLayout = ({ children }) => (
             marginRight: "1em"
           }}
         >
-          My Dashboard
+          Main Dashboard
         </h2>
       </div>
     </Layout.Header>
